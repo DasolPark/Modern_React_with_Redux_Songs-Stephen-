@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/Modern_React_with_Redux_Songs-Stephen-/static/js/main.bf275d5f.chunk.js",
+    "main.js.map": "/Modern_React_with_Redux_Songs-Stephen-/static/js/main.bf275d5f.chunk.js.map",
+    "runtime-main.js": "/Modern_React_with_Redux_Songs-Stephen-/static/js/runtime-main.7f1a4e6b.js",
+    "runtime-main.js.map": "/Modern_React_with_Redux_Songs-Stephen-/static/js/runtime-main.7f1a4e6b.js.map",
+    "static/js/2.44a0b252.chunk.js": "/Modern_React_with_Redux_Songs-Stephen-/static/js/2.44a0b252.chunk.js",
+    "static/js/2.44a0b252.chunk.js.map": "/Modern_React_with_Redux_Songs-Stephen-/static/js/2.44a0b252.chunk.js.map",
+    "index.html": "/Modern_React_with_Redux_Songs-Stephen-/index.html",
+    "precache-manifest.f79472142326c0c1c3eadf51832d3296.js": "/Modern_React_with_Redux_Songs-Stephen-/precache-manifest.f79472142326c0c1c3eadf51832d3296.js",
+    "service-worker.js": "/Modern_React_with_Redux_Songs-Stephen-/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7f1a4e6b.js",
+    "static/js/2.44a0b252.chunk.js",
+    "static/js/main.bf275d5f.chunk.js"
+  ]
+}
